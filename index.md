@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ingredientes:
 
 You can use the [editor on GitHub](https://github.com/kainnn/Tutorial-do-Paulo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
