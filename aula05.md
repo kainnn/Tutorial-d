@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title> Listas de definição ou descrição</title>
-                <p><img src="4estacoes.jpg"title="Estações"width=300 height=200>
+                <p><img src="4estacoes.jpg"title="Estações"width=300 height=200>1
      </p>	
 
 	</head>
@@ -11,7 +11,7 @@
 	<body>
 
      <dl>
-     <p><img src="2.jpg"title="Abstrato"width=300 heigth=100>
+     <p><img src="2.jpg"title="Abstrato"width=300 heigth=100>2
      </p>
      
        <dt> Agente Administrativo</dt>
