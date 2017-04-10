@@ -10,8 +10,6 @@
 	<body>
 
      <dl>
-     <p><img src="4estacoes.jpg"title="Estações"width=300 height=200>1
-     </p>	
      
        <dt> Agente Administrativo</dt>
        <dd>2015 - 2016<dd>
