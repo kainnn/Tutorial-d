@@ -10,9 +10,10 @@
 	<body>
 
      <dl>
-     <p><img src="2.jpg"title="Abstrato"width=300 heigth=100>1 
+     <p><img src="2.jpg"title="Abstrato"width=300 heigth=100>
      </p>
-     <p><img src"4estacoes.jpg"title="Estações"width=300 height=200>2</p>
+     <p><img src"4estacoes.jpg"title="Estações"width=300 height=200>
+     </p>
        <dt> Agente Administrativo</dt>
        <dd>2015 - 2016<dd>
        <dd> Universidade Veiga de Almeida </dd>
