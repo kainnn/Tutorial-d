@@ -2,7 +2,7 @@
 <html lang="pt-br">
 	<head>
 		<meta charset="UTF-8">
-		<title> Listas de definição ou descrição</title>
+		<title> Curriculo profissional</title>
                
 
 	</head>
@@ -10,7 +10,7 @@
 	<body>
 
      <dl>
-    <p><img src="4estacoes.jpg"title="estacoes"</p>
+    <p><img src="4estacoes.jpg"width="300"height="300"></p>
        <dt> Agente Administrativo</dt>
        <dd>2015 - 2016<dd>
        <dd> Universidade Veiga de Almeida </dd>
