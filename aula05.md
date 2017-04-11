@@ -10,8 +10,7 @@
 	<body>
 
      <dl>
-    <p><img src="4estacoes.jpg"tittle="estacoes"width="300"height="300">
-    </p>
+    
        <dt> Agente Administrativo</dt>
        <dd>2015 - 2016<dd>
        <dd> Universidade Veiga de Almeida </dd>
