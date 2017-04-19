@@ -19,9 +19,9 @@
     </p>
       
       </dl> 
-      <table border="3">
-        <caption>Idiomas</caption>
-        <tr> <th> Línguas</th> <th> Proficiência</th> 
+      <table border="2">
+        <caption>Idioma</caption>
+        <tr> <th> Linguagem</th> <th> Proficiência</th> 
         </tr>
         <tr>
           <td>
@@ -33,11 +33,10 @@
           <td>
   Espanhol        
   </td>
-  <td> básico </td>
+  <td> Básico </td>
         </tr>
-     
-      </table>
-<table border="3">
+	</table>
+<table border="2">
         <caption>Conhecimentos Gerais</caption>
         <tr> <th> Conhecimentos</th> <th> Proficiência</th> 
         </tr>
