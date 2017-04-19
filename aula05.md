@@ -12,6 +12,7 @@
 	<h3>Informações gerais</h3>
 	<p><b>Nome completo:</b>João Gabriel Melo</p><br>
 	<b>Data de Nascimento:</b>26/02/1997 (20 anos)<br>
+	<b>Graduação:</b> Sistema da Informação - 1° Período<br>
 	<b>Endereço:</b>Rua da Passagem - 78. Apt.603<br>
 	<b>Telefone/Celular:</b>25416099/987272958
 	
