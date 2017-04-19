@@ -37,6 +37,22 @@
         </tr>
      
       </table>
-
+<table border="3">
+        <caption>Conhecimentos Gerais</caption>
+        <tr> <th> Conhecimentos</th> <th> Proficiência</th> 
+        </tr>
+        <tr>
+          <td>
+          Linguagem C
+          </td>
+          <td>Intermediário</td>
+        </tr>
+<tr>
+          <td>
+  Pacote Office        
+  </td>
+  <td> Avançado </td>
+        </tr>
+	</table>
   </body>
   </html>
