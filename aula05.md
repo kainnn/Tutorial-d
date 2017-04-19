@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title> Curriculo profissional</title>
-               
+               <meta name="Descrição" content="Meu curriculo" >
 
 	</head>
 
