@@ -10,12 +10,13 @@
 	<body>
 
      <dl>
-    <p><img src="4estacoes.jpg" tittle="4x4" width="300" height="300">
+     <h1>Curriculo de João Gabriel Melo</h1>
+    <p>
        <dt> Agente Administrativo</dt>
        <dd>2015 - 2016<dd>
        <dd> Universidade Veiga de Almeida </dd>
        <dd> Assistente Administrativo </dd>
-             <p><img src="2.jpg" tittle="arte" width="300" height="300">
+             
     </p>
       
       </dl> 
@@ -37,7 +38,22 @@
         </tr>
      
       </table>
-      
+      <table border="3">
+      <caption> Conhecimentos</caption>
+      <tr> <th> Linguagem/Geral</th> <th> Proficiência</th>
+      </tr>
+      <tr>
+      	 <td>
+	 Linguagem C
+	 </td>
+	 <td>Intermediário</td>
+	 </tr>
+<tr>
+	      <td>
+	 Pacote Office
+	 </td>
+	 <td> Avançado</td>
+	 </tr>
   
   
  
