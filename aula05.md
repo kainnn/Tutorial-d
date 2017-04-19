@@ -7,6 +7,7 @@
 	</head>
 	
 	<body>
+	background-color: #2BB5DF
 	<h1>Curriculo Profissional</h1>
 	<h3>Informações gerais</h3>
 	<p><b>Nome completo:</b>João Gabriel Melo</p><br>
