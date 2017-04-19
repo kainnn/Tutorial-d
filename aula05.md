@@ -8,7 +8,7 @@
 	
 	<body>
 	<h1>Curriculo Profissional</h1>
-	<h2>Informações gerais</h2>
+	<h3>Informações gerais</h3>
 	<p><b>Nome completo:</b>João Gabriel Melo</p><br>
 	<b>Data de Nascimento:</b>26/02/1997 (20 anos)<br>
 	<b>Endereço:</b>Rua da Passagem - 78. Apt.603<br>
