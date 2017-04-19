@@ -7,18 +7,21 @@
 	</head>
 
 	<body>
-
-     <dl>
-     <h1>Curriculo de João Gabriel Melo</h1>
+	<h1>Informações gerais</h1>
+	<p><b>Nome completo:</b>João Gabriel Melo</p><br>
+	<b>Data de Nascimento:</b>26/02/1997 (20 anos)<br>
+	<b>Endereço:</b>Rua da Passagem - 78. Apt.603<br>
+	<b>Telefone/Celular:</b>25416099/987272958
+	
+     
+     <h2>Experiência</h2>
     <p>
        <dt> Agente Administrativo</dt>
        <dd>2015 - 2016<dd>
        <dd> Universidade Veiga de Almeida </dd>
        <dd> Assistente Administrativo </dd>
              
-    </p>
-      
-      </dl> 
+     
       <table border="2">
         <caption>Idioma</caption>
         <tr> <th> Linguagem</th> <th> Proficiência</th> 
