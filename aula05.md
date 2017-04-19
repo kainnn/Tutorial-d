@@ -23,7 +23,7 @@
              
      
       <table border="2">
-        <caption>Idioma</caption>
+      <caption><strong>Idioma</strong></caption>
         <tr> <th> Linguagem</th> <th> Proficiência</th> 
         </tr>
         <tr>
@@ -40,7 +40,7 @@
         </tr>
 	</table>
 <table border="2">
-        <caption>Conhecimentos Gerais</caption>
+<caption><strong>Conhecimentos Gerais</strong></caption>
         <tr> <th> Conhecimentos</th> <th> Proficiência</th> 
         </tr>
         <tr>
