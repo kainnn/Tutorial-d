@@ -55,5 +55,5 @@
 	 <td> Avançado</td>
 	 </tr>
   
-  
+  </table>
  
