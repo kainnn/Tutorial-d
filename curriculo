@@ -7,7 +7,10 @@
 	</head>
 	
 	<body>
-	
+	<style>
+	<body> background-color: gray
+	</body>
+	</style>
 	<h1>Curriculo Profissional</h1>
 	<h3>Informações gerais</h3>
 	<p><b>Nome completo:</b>João Gabriel Melo</p><br>
